@@ -5,6 +5,7 @@ class Calculator:
     def subtract(self, x, y):
         return x - y
 
+
 if __name__ == "__main__":
     calc = Calculator()
     print("Welcome to Calculator!")
